@@ -1,11 +1,11 @@
-Tic-Tac-Toe Game 🎮
+##Tic-Tac-Toe Game 🎮
 A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play against a friend in this classic two-player game!
 
 
 ---
 
 
-🚀 Features
+##🚀 Features
 ✅ Responsive and user-friendly UI
 ✅ Smooth game mechanics
 ✅ Displays the winner or draw message
@@ -13,7 +13,7 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
 ---
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 HTML: Structure of the game
 CSS: Styling and animations
 JavaScript: Game logic and interactions
@@ -22,12 +22,12 @@ JavaScript: Game logic and interactions
 ---
 
 
-📷 Demo
+##📷 Demo
 [Include a screenshot or GIF of the game here]
 
 ---
 
-🎮 How to Play
+##🎮 How to Play
 Open the game in a web browser.
 Two players take turns marking "X" or "O" on the grid.
 The first player to align three marks in a row, column, or diagonal wins!
